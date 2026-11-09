@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\c2\obj\Debug\net10.0\c2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\c2\obj\Debug\net10.0\c2.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\c2\obj\Debug\net10.0\c2.AssemblyInfo.cs
+C:\Users\Admin\Desktop\c2\obj\Debug\net10.0\c2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\c2\bin\Debug\net10.0\c2.exe
+C:\Users\Admin\Desktop\c2\bin\Debug\net10.0\c2.deps.json
+C:\Users\Admin\Desktop\c2\bin\Debug\net10.0\c2.runtimeconfig.json
+C:\Users\Admin\Desktop\c2\bin\Debug\net10.0\c2.dll
+C:\Users\Admin\Desktop\c2\bin\Debug\net10.0\c2.pdb
+C:\Users\Admin\Desktop\c2\obj\Debug\net10.0\c2.dll
+C:\Users\Admin\Desktop\c2\obj\Debug\net10.0\refint\c2.dll
+C:\Users\Admin\Desktop\c2\obj\Debug\net10.0\c2.pdb
+C:\Users\Admin\Desktop\c2\obj\Debug\net10.0\c2.genruntimeconfig.cache
+C:\Users\Admin\Desktop\c2\obj\Debug\net10.0\ref\c2.dll
